@@ -1,0 +1,81 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 85px;
+  width: 1152px;
+  height: 467px;
+  align-items: flex-start;
+}
+.rectangle4 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #fbfbfb;
+}
+.croods1 {
+  position: absolute;
+  left: 50.6076%;
+  right: 8.0729%;
+  top: 14.9893%;
+  bottom: 15.8458%;
+  background-image:/* webpackIgnore: true */ url('/assets/croods1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.makeBetterCoffee {
+  position: absolute;
+  left: 11.0243%;
+  right: 58.2465%;
+  top: 28.0514%;
+  bottom: 40.6852%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 60px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #000;
+  font-size: 60px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.whyLearnHowToBlog {
+  color: #4a5568;
+  font-size: 30px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.0243%;
+  right: 60.5035%;
+  top: 63.3833%;
+  bottom: 28.9079%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.image6 {
+  transform-origin: top left;
+  position: absolute;
+  left: 28.0042%;
+  right: 65.9194%;
+  top: 47.23%;
+  bottom: 38.4231%;
+  background-image:/* webpackIgnore: true */ url('/assets/image6.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(0.9186, -0.3953, 0.3953, 0.9186, 0, 0);
+}

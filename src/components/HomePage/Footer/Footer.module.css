@@ -1,0 +1,83 @@
+.root {
+  position: absolute;
+  left: -4px;
+  top: 1913px;
+  width: 1152.007px;
+  height: 51.754px;
+  align-items: flex-start;
+}
+.instagramFill1 {
+  position: absolute;
+  left: 80.2947%;
+  right: 17.622%;
+  top: 56.0343%;
+  bottom: 0;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.vector {
+  position: absolute;
+  left: 85.2234%;
+  right: 13.0072%;
+  top: 62.7911%;
+  bottom: 6.8479%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.linkedinBoxFill1 {
+  position: absolute;
+  left: 89.8432%;
+  right: 8.0735%;
+  top: 56.0343%;
+  bottom: 0;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.hotcoffee2020CopyrightAllRight {
+  position: absolute;
+  left: 8.0729%;
+  right: 62.6738%;
+  top: 56.0343%;
+  bottom: 7.2536%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #000;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.line1 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -1.9322%;
+  bottom: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  border-bottom: solid 1px #e8e8e8;
+  margin-bottom: -1px;
+}

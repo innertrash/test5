@@ -1,0 +1,85 @@
+.root {
+  position: absolute;
+  left: 94px;
+  top: 1302px;
+  width: 965px;
+  height: 500px;
+  align-items: flex-start;
+}
+.rectangle5 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #f7fafc;
+}
+.image7 {
+  position: absolute;
+  left: 45.5959%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('/assets/image7.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.itIsALongEstablishedFactThatAR {
+  color: #718096;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.5285%;
+  right: 61.2435%;
+  top: 43.6%;
+  bottom: 33.6%;
+  height: min-content;
+  flex-direction: column;
+}
+.readMore {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 30.1554%;
+  right: 61.1399%;
+  top: 72.6%;
+  bottom: 23.6%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.may20 {
+  color: #4a5568;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.5285%;
+  right: 87.5648%;
+  top: 72.6%;
+  bottom: 23.6%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.whatIsLoremIpsum {
+  color: #000;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.5285%;
+  right: 61.5544%;
+  top: 19.6%;
+  bottom: 61.2%;
+  height: min-content;
+  flex-direction: column;
+}

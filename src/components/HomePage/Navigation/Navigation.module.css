@@ -1,0 +1,96 @@
+.root {
+  position: absolute;
+  left: 481px;
+  top: 34px;
+  width: 578px;
+  height: 24px;
+  align-items: flex-start;
+}
+.home {
+  color: #000;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 48.9619%;
+  right: 43.2526%;
+  top: 12.5%;
+  bottom: 8.3333%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.articles {
+  color: #000;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.9377%;
+  right: 28.0277%;
+  top: 12.5%;
+  bottom: 8.3333%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.searchLine1 {
+  position: absolute;
+  left: 0;
+  right: 96.5398%;
+  top: 8.3333%;
+  bottom: 8.3333%;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.instagramFill1 {
+  position: absolute;
+  left: 76.8166%;
+  right: 19.0311%;
+  top: 0;
+  bottom: 0;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.twitterFill1 {
+  position: absolute;
+  left: 86.3322%;
+  right: 9.5156%;
+  top: 0;
+  bottom: 0;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.linkedinBoxFill1 {
+  position: absolute;
+  left: 95.8478%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.hotCoffee {
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: -398px;
+  top: 2px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
